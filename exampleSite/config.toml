@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
 [languages.en]
-title = "Ananke"
+title = "homepage"
 weight = 1
 contentDir = "content/en"
 # languageDirection = 'rtl' for Right-To-Left languages
